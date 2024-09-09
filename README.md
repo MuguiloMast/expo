@@ -1,1 +1,1 @@
-# expo Trabalho Bimestral
+# Expo Bentinho, Trabalho Bimestral.
