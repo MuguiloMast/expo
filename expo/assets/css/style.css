@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&family=Trade+Winds&display=swap');
+
+
+html{
+width: 100%;
+ height: 100%;
+}
+
+#corpo{
+width: 100%;
+overflow: hidden;
+background-image: url('/assets/img/3.jpg');
+background-position:top  ;
+background-size: cover;
+background-repeat: no-repeat;
+color: #ffd000;
+font-family: "Trade Winds", system-ui;
+
+width: 76%;
+flex-direction: column;
+margin: auto;
+
+
+
+
+    
+    }
+    @media (max-width: 538px) {
+    
+        nav {
+            flex-direction: row;
+        }
+    
+    
+    
+    
+    }
+#fetchButton{
+    
+background-color: #ff5e00;
+color: rgb(255, 255, 255);
+
+
+}
+nav{
+    width: 50%;
+    
+
+
+
+
+}
